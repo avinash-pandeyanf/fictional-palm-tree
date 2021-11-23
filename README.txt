@@ -1,8 +1,3 @@
-Ethereal by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
-
 This is Fictional Palm Tree, my latest, and quite possibly most unique template. The result is this template,
 Fictional Palm Tree, which combines a robust side-scrolling framework of my own creation (with various
 "scroll-assist" features like drag/momentum scrolling, keyboard shortcuts, etc.) with a unique
