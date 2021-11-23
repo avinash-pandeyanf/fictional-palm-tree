@@ -3,21 +3,14 @@ html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-This is Ethereal, my latest, greatest, and quite possibly most unique template for HTML5 UP.
-Since releasing Parallelism 3-4 years ago (!!!), I've been dying to do another side-scrolling
-template with more in the way of flexibility/customization potential. The result is this template,
-Ethereal, which combines a robust side-scrolling framework of my own creation (with various
+This is Fictional Palm Tree, my latest, and quite possibly most unique template. The result is this template,
+Fictional Palm Tree, which combines a robust side-scrolling framework of my own creation (with various
 "scroll-assist" features like drag/momentum scrolling, keyboard shortcuts, etc.) with a unique
 look and feel, a lightbox gallery, tons of customization options, and, of course, full
 responsiveness. Hope you dig it :)
 
 Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
 you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
 
 
 Instructions:
@@ -140,39 +133,6 @@ Instructions:
 					aligned        When used with "columns", aligns content to top of panel.
 					divided        When used with "columns", separates each column with a vertical line.
 
-			Examples
-
-				Here's a very basic example:
-
-					<section class="panel medium color0">
-						<div class="intro">
-							<h2 class="major">Panel</h2>
-							<p>Just a generic panel.</p>
-						</div>
-						<div class="inner">
-							<p>Lorem ipsum dolor sit amet.</p>
-						</div>
-					</section>
-
-				And here's a more advanced example using columns and *no* size modifier:
-
-					<section class="panel color2">
-						<div class="intro">
-							<h2 class="major">Panel</h2>
-							<p>Just a generic panel.</p>
-						</div>
-						<div class="inner columns">
-							<div class="span-4">
-								<p>This column is 4 units wide.</p>
-							</div>
-							<div class="span-3">
-								<p>This column is 3 units wide.</p>
-							</div>
-							<div class="span-2">
-								<p>This column is 2 units wide.</p>
-							</div>
-						</div>
-					</section>
 
 				Note: The "intro" child element already has a fixed width, so a span modifier
 				isn't required.
@@ -218,17 +178,6 @@ Instructions:
 					left           Position image along the left edge.
 					center         Position image in the center.
 
-			Example
-
-				<section class="panel banner medium right">
-					<div class="content color0">
-						<h1>Banner</h1>
-						<p>Lorem ipsum dolor sit amet.</p>
-					</div>
-					<div class="image" data-position="center">
-						<img src="/path/to/image.jpg" alt="" />
-					</div>
-				</section>
 
 
 		Panel (Spotlight)
@@ -270,18 +219,6 @@ Instructions:
 					bottom left    Position image in the bottom-left corner.
 					left           Position image along the left edge.
 					center         Position image in the center.
-
-			Example
-
-				<section class="panel spotlight large right">
-					<div class="content">
-						<h1>Spotlight</h1>
-						<p>Lorem ipsum dolor sit amet.</p>
-					</div>
-					<div class="image" data-position="center">
-						<img src="/path/to/image.jpg" alt="" />
-					</div>
-				</section>
 
 
 		Gallery
@@ -341,31 +278,6 @@ Instructions:
 					bottom left    Position image in the bottom-left corner.
 					left           Position image along the left edge.
 					center         Position image in the center.
-
-			Example
-
-				<div class="gallery">
-					<a href="/images/thumbnails/01.jpg" class="image filtered span-2" data-position="center">
-						<img src="/images/fulls/01.jpg" alt="" />
-					</a>
-					<a href="/images/thumbnails/02.jpg" class="image filtered span-4" data-position="center">
-						<img src="/images/fulls/02.jpg" alt="" />
-					</a>
-					<div class="group span-4">
-						<a href="/images/thumbnails/03.jpg" class="image filtered span-2" data-position="center">
-							<img src="/images/fulls/03.jpg" alt="" />
-						</a>
-						<a href="/images/thumbnails/04.jpg" class="image filtered span-2" data-position="center">
-							<img src="/images/fulls/04.jpg" alt="" />
-						</a>
-						<a href="/images/thumbnails/05.jpg" class="image filtered span-2" data-position="center">
-							<img src="/images/fulls/05.jpg" alt="" />
-						</a>
-						<a href="/images/thumbnails/06.jpg" class="image filtered span-2" data-position="center">
-							<img src="/images/fulls/06.jpg" alt="" />
-						</a>
-					</div>
-				</div>
 
 
 Credits:
